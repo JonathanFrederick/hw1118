@@ -8,8 +8,6 @@ In terminal
   - clones the repository into a new directory
 - `cd hw1118`
   - changes directory to the newly cloned repo
-- `npm install mocha`
-  - installs the Mocha test framework for JavaScript
-- `npm test`
-  - runs tests with Mocha
-  
+
+In browser
+- open `tests.html` to view tests
