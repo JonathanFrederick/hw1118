@@ -40,8 +40,8 @@ You will design a small web application GUI, using HTML and JavaScript that does
                        home       : 'Alzarius'},
                      { first_name : 'Susan',
                        last_name  : 'Foreman',
-                       home       : 'Gallifrey'} ];
-                     ```
+                       home       : 'Gallifrey'}
+```
 
 2. Contains styling that helps present the table.
 
